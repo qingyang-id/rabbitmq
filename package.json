@@ -1,0 +1,27 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "rabbitmqjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "rabbitmq",
+    "rabbitmq",
+    "connections",
+    "rabbitmq",
+    "cluster"
+  ],
+  "author": "yq",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "bluebird": "^3.5.1",
+    "md5": "^2.2.1",
+    "request": "^2.88.0",
+    "socks5-http-client": "^1.0.4",
+    "socks5-https-client": "^1.2.1",
+    "underscore": "^1.9.1"
+  }
+}
